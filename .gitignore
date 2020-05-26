@@ -1,0 +1,18 @@
+test/
+git_desde_cero/
+.gitconfig/
+AppData/
+"Configuraci\303\263n local/"
+Cookies/
+Datos de programa/
+"Men\303\272 Inicio/"
+NTUSER.DAT
+NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TM.blf
+NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000002.regtrans-ms
+Reciente/
+SendTo/
+ntuser.dat.LOG1/
+ntuser.dat.LOG2/
+ntuser.ini/
+todo/
